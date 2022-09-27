@@ -1,6 +1,4 @@
-﻿using System.Xml;
-
-namespace task2
+﻿namespace task2
 {
     class Node<T>
     {
@@ -28,7 +26,7 @@ namespace task2
 
         public MyLinkedList()
         {
-            Head = new Node<T>(default(T));
+            Head = new Node<T>(default);
             Tail = Head;
             count = 0;  
         }
