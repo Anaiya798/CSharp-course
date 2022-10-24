@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lab3\\GetEnumerator",
-    "\\lab3\\LinkedListsComparison",
-    "\\lab4"
+    "\\lab6",
+    "\\lab6\\MyLinkedList"
   ],
-  "SelectedNode": "\\lab4\\Interfaces",
+  "SelectedNode": "\\lab6\\MyLinkedList\\MyLinkedList.cs",
   "PreviewInSolutionExplorer": false
 }
